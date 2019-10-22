@@ -16,5 +16,7 @@ for (n in c(1:25)){
   i <- i+1
 }
 
+#here for uniform distribution, see you can not dinstinguish between normal and
+#uniform distribution with values mean and variance
 plot (x=c(1:25), y=Means)
 plot (x=c(1:25), y=Vars)
