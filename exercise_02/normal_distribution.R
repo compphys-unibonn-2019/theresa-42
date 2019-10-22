@@ -17,4 +17,4 @@ for (n in c(1:25)){
 }
 
 plot (x=c(1:25), y=Means)
-#plot (x=c(1:25), y=Vars)
+plot (x=c(1:25), y=Vars)
